@@ -1,0 +1,13 @@
+Metric,Value
+Precision@10,0.8598903764066744
+Recall@10,0.8598903764066744
+Hit Rate,0.8598903764066744
+MRR,0.08797806334726514
+
+Hyperparameters
+embedding_dim,100
+hidden_units,250
+max_sequence_length,20
+batch_size,16
+epochs,20
+learning_rate,0.0001

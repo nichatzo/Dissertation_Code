@@ -1,0 +1,2 @@
+Experiment,Embedding Dim,Num Heads,Num Blocks,Batch Size,Learning Rate,Dropout Rate,Epochs,Test Loss,Test Top-10 Accuracy,Precision@5,Recall@5,Hit Rate,MRR
+Experiment Template,50,4,2,32,0.001,0.1,40,15.124755859375,0.05931198224425316,0.009489916963226576,0.04744958481613286,0.04744958481613286,0.035132463424278365

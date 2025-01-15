@@ -1,0 +1,2 @@
+Experiment,Embedding Dim,Num Heads,Num Blocks,Batch Size,Learning Rate,Dropout Rate,Epochs,Test Loss,Test Top-10 Accuracy
+Experiment 1,200,4,2,64,0.001,0.3,30,13.352205276489258,0.035587187856435776
